@@ -1,0 +1,5 @@
+def wish_good_evening():
+    print("Good evening! Have a pleasant evening ahead.")
+
+# Call the function to wish good evening
+wish_good_evening()
